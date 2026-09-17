@@ -20,7 +20,3 @@ Uma loja virtual moderna e temática focada no público gamer, desenvolvida com 
 
 - **HTML5**: Estruturação semântica.
 - **CSS3**: Layout com Flexbox, estilização de formulários e efeitos visuais.
-
----
-
-✍️ **Desenvolvido por:** Carlos Gabriel e João Ferreira
