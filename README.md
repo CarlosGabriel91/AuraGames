@@ -20,3 +20,8 @@ Uma loja virtual moderna e temática focada no público gamer, desenvolvida com 
 
 - **HTML5**: Estruturação semântica.
 - **CSS3**: Layout com Flexbox, estilização de formulários e efeitos visuais.
+
+---
+
+## 🖥️ Link do Deploy
+- https://carlosgabriel91.github.io/AuraGames/
